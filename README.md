@@ -187,7 +187,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=date&legend=top-left)](https://www.star-history.com/#iSoumyaDey/Awesome-Web-Hosting-2026&type=date&legend=top-left)
 
-<br>
 </div>
 
 <div align="center">
