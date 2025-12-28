@@ -8,8 +8,6 @@
 [![License](https://img.shields.io/badge/License-CC0_1.0-blue?style=for-the-badge&logo=creative-commons&logoColor=white)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Updated](https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge&logo=cachet&logoColor=white)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026)
 
-<br>
-
 ## **The Definitive Guide to Free Cloud Infrastructure**
 
 > **Stop paying for side projects.** <br>
