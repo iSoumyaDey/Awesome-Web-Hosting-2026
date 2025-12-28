@@ -27,7 +27,6 @@
 | **Docker** & **Node.js** | **Python** & **Jupyter** | **Postgres** & **Redis** |
 
 <br>
-<div align="center">
 
 [![Static Sites](https://img.shields.io/badge/🌐_Static_Sites-View_List-2ea44f?style=flat-square)]( #static-sites)
 [![Full Stack](https://img.shields.io/badge/🔧_Full_Stack-View_List-0366d6?style=flat-square)]( #full-stack)
@@ -44,6 +43,8 @@
 ## 🌐 Static Site Hosting
 *Ideal for: Portfolios, Documentation, React/Vue/Angular Apps, JAMstack.*
 
+<div align="center">
+
 | Service | Free Tier Limits | Paid Starts | Best For | Deploy Method |
 |:---:|:---:|:---:|:---|:---|
 | **[Vercel](https://vercel.com/)** | ✅ **Unlimited Sites** | $20/mo | Next.js, React | Git Integration, CLI |
@@ -53,12 +54,15 @@
 | **[Surge](https://surge.sh/)** | ✅ **Unlimited** | $30/mo | Simple HTML | CLI Command |
 | **[Render](https://render.com/)** | ✅ **Unlimited** | $7/mo | Static Assets | Auto-deploy from Git |
 
+</div>
 <br>
 
 <div id="full-stack"></div>
 
 ## 🔧 Full-Stack Platforms
 *Ideal for: Node.js, Python (Django/Flask), Go, Ruby, Docker Containers.*
+
+<div align="center">
 
 | Service | Free Resources | Sleep Policy | Support | Key Feature |
 |:---:|:---:|:---:|:---:|:---|
@@ -70,12 +74,15 @@
 | **[Koyeb](https://www.koyeb.com/)** | ✅ **$5.50 Credit** | No | Docker/Git | Global deployment, Microservices |
 | **[PythonAnywhere](https://www.pythonanywhere.com/)** | ✅ **Limited** | N/A | Python | Specialized for Django/Flask |
 
+</div>
 <br>
 
 <div id="serverless"></div>
 
 ## ⚡ Serverless & Edge
 *Ideal for: APIs, Background Jobs, Event-Driven Architecture, Microservices.*
+
+<div align="center">
 
 | Service | Requests / Month | Runtime Support | Unique Feature |
 |:---:|:---:|:---|:---|
@@ -84,12 +91,15 @@
 | **[Deno Deploy](https://deno.com/deploy)** | ✅ **100k / day** | TypeScript, JS | Native TypeScript, no config |
 | **[Vercel Functions](https://vercel.com/docs/functions)** | ✅ **100GB-Hrs** | Node, Go, Python | Integrated seamlessly with frontend |
 
+</div>
 <br>
 
 <div id="databases"></div>
 
 ## 🗄️ Database & Backend
 *Ideal for: Persisting data (SQL, NoSQL) and Backend-as-a-Service.*
+
+<div align="center">
 
 | Service | Type | Free Storage | Special Feature |
 |:---:|:---:|:---:|:---|
@@ -100,12 +110,15 @@
 | **[Neon](https://neon.tech/)** | **PostgreSQL** | 500 MB | Serverless, compute auto-scaling |
 | **[Turso](https://turso.tech/)** | **SQLite** | 9 GB | Edge-hosted, incredibly fast |
 
+</div>
 <br>
 
 <div id="ai-gpu"></div>
 
 ## 🤖 AI & GPU Hosting
 *Ideal for: Machine Learning, LLMs, Python Notebooks, Inference.*
+
+<div align="center">
 
 | Service | Free Hardware | Best Use Case |
 |:---:|:---:|:---|
@@ -114,12 +127,15 @@
 | **[Kaggle Kernels](https://www.kaggle.com/code)** | ✅ **P100 GPU** | Data Science competitions & practice |
 | **[Lightning AI](https://lightning.ai/)** | ✅ **Free Credits** | PyTorch Lightning apps |
 
+</div>
 <br>
 
 <div id="vps-cloud"></div>
 
 ## ☁️ Cloud Infrastructure (VPS)
 *Ideal for: Virtual Machines, Linux Servers, Enterprise Learning.*
+
+<div align="center">
 
 | Provider | The "Always Free" Deal | Specs |
 |:---:|:---|:---|
@@ -128,12 +144,15 @@
 | **[AWS Free Tier](https://aws.amazon.com/free/)** | t2.micro / t3.micro | 12 Months Free Access |
 | **[Azure](https://azure.microsoft.com/free/)** | B1s Burstable VM | 12 Months Free Access |
 
+</div>
 <br>
 
 <div id="traditional"></div>
 
 ## 🏠 Traditional Hosting (PHP/cPanel)
 *Ideal for: WordPress, Legacy PHP scripts, FTP users.*
+
+<div align="center">
 
 | Service | Free Limits | Key Features | Type |
 |:---:|:---:|:---:|:---|
@@ -144,42 +163,29 @@
 
 </div>
 
----
-
-<div align="center">
-
 ## 🤝 Join the Community
 **Help us build the #1 Free Hosting Resource for Developers.** *Found a broken link? Know a hidden gem?*
 
-<a href="https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=iSoumyaDey/Awesome-Web-Hosting-2026" alt="Contributors" />
-</a>
+<div align="center">
 
-<br><br>
+<a href="https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/graphs/contributors"><img src="https://contrib.rocks/image?repo=iSoumyaDey/Awesome-Web-Hosting-2026" alt="Contributors" /></a>
+
+<br>
 
 [![Submit PR](https://img.shields.io/badge/Submit_Service-Make_a_PR-blue?style=for-the-badge&logo=github)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/pulls)
 [![Report Issue](https://img.shields.io/badge/Report_Link-Open_Issue-red?style=for-the-badge&logo=github)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/issues)
 
-<br>
+</div>
 
 ## 📈 Repository Stats
 *Real-time metrics for open-source transparency.*
 
-<a href="https://star-history.com/#iSoumyaDey/Awesome-Web-Hosting-2026&Date">
- <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date&theme=light" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date" />
- </picture>
-</a>
+<div align="center">
+
+<a href="https://star-history.com/#iSoumyaDey/Awesome-Web-Hosting-2026&Date"><picture><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date&theme=light" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date" /><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date" /></picture></a>
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=iSoumyaDey-Awesome-Hosting&color=blueviolet&style=flat-square&label=REPO+VIEWS)
-
 </div>
-
----
 
 <div align="center">
   <p>
