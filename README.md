@@ -21,18 +21,18 @@
 | **Docker** & **Node.js** | **Python** & **Jupyter** | **Postgres** & **Redis** |
 
 <br>
+<div align="center">
 
-[`🌐 Static Sites`](#static-sites) &nbsp;
-[`🔧 Full-Stack`](#full-stack) &nbsp;
-[`⚡ Serverless`](#serverless) &nbsp;
-[`🗄️ Databases`](#databases) &nbsp;
-[`🤖 AI & GPU`](#ai-gpu) &nbsp;
-[`☁️ VPS & Cloud`](#vps-cloud) &nbsp;
-[`🏠 Traditional`](#traditional)
+[![Static Sites](https://img.shields.io/badge/🌐_Static_Sites-View_List-2ea44f?style=flat-square)]( #static-sites)
+[![Full Stack](https://img.shields.io/badge/🔧_Full_Stack-View_List-0366d6?style=flat-square)]( #full-stack)
+[![Serverless](https://img.shields.io/badge/⚡_Serverless-View_List-f9a825?style=flat-square)]( #serverless)
+[![Databases](https://img.shields.io/badge/🗄️_Databases-View_List-6f42c1?style=flat-square)]( #databases) <br/>
+[![AI & GPU](https://img.shields.io/badge/🤖_AI_&_GPU-View_List-ea4aaa?style=flat-square)]( #ai-gpu)
+[![VPS & Cloud](https://img.shields.io/badge/☁️_VPS_&_Cloud-View_List-0078d7?style=flat-square)]( #vps-cloud)
+[![Traditional](https://img.shields.io/badge/🏠_Traditional-View_List-d9534f?style=flat-square)]( #traditional)
 
+</div>
 <br>
-<br>
-
 <div id="static-sites"></div>
 
 ## 🌐 Static Site Hosting
