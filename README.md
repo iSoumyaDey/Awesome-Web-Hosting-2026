@@ -69,6 +69,7 @@
 | **[Google Cloud Run](https://cloud.google.com/run/pricing)** | ✅ **2M Requests/mo** | Scales to 0 | Serverless Docker "cheat code" |
 | **[Zeabur](https://zeabur.com/)** | ✅ **$5 Credit/mo** | No | **Top Pick 2026** (No CC req) |
 | **[Render](https://render.com/)** | ✅ **750 Hrs/mo** | Yes (15m) | Easy deploy, huge limits |
+| **[Glitch](https://glitch.com/)** | ✅ **1000 Hrs/mo** | ✅ **Yes** | Yes (5m) | Best for prototypes |
 | **[Koyeb](https://www.koyeb.com/)** | ✅ **Free Nano Instance** | No | Global Edge deployment |
 | **[Northflank](https://northflank.com/)** | ✅ **CC Required** | No | 1 Service + 1 Database Free |
 | **[Glitch](https://glitch.com/)** | ✅ **1000 Hrs/mo** | Yes (5m) | Best for fun/quick prototypes |
