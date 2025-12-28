@@ -1,235 +1,183 @@
-# Free Web Hosting 2025 - Best Cloud Hosting & Deployment Platforms for Developers 🚀
+<div align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/awesome-lists)
-![GitHub stars](https://img.shields.io/github/stars/iSoumyadDey/Awesome-Web-Hosting-2026)
-![GitHub forks](https://img.shields.io/github/forks/iSoumyadDey/Awesome-Web-Hosting-2026)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-![Last Updated](https://img.shields.io/badge/updated-2026-blue)
+# 🚀 Awesome Free Web Hosting 2026
 
-> **Curated list of 100+ best free web hosting services, cloud platforms, and deployment solutions for 2025-2026.** Compare features, pricing, and free tiers for static sites, full-stack apps, serverless functions, and enterprise cloud hosting. Perfect for developers, startups, and businesses looking for reliable hosting solutions.
+[![Awesome](https://img.shields.io/badge/Awesome-List-fc60a8?style=for-the-badge&logo=awesome&logoColor=white)](https://github.com/awesome-lists)
+[![Stars](https://img.shields.io/github/stars/iSoumyaDey/Awesome-Web-Hosting-2026?style=for-the-badge&logo=github&color=yellow)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/stargazers)
+[![Forks](https://img.shields.io/github/forks/iSoumyaDey/Awesome-Web-Hosting-2026?style=for-the-badge&logo=github&color=orange)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/network/members)
+[![License](https://img.shields.io/badge/License-CC0_1.0-blue?style=for-the-badge&logo=creative-commons&logoColor=white)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Updated](https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge&logo=cachet&logoColor=white)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026)
 
-## 📋 Table of Contents
+<br>
 
-- [Static Site Hosting](#static-site-hosting)
-- [Full-Stack Platforms](#full-stack-platforms)
-- [Serverless & Edge Computing](#serverless--edge-computing)
-- [Traditional Web Hosting](#traditional-web-hosting)
-- [Specialized Hosting](#specialized-hosting)
-- [Cloud Infrastructure](#cloud-infrastructure)
-- [Database Hosting](#database-hosting)
-- [CI/CD & DevOps](#cicd--devops)
+## **The Definitive Guide to Free Cloud Infrastructure**
 
----
+> **Stop paying for side projects.** <br>
+> A curated, verified list of **100+ free tier platforms** for Developers, Startups, and Students.
+
+| ⚡ **Fast Deploy** | 🤖 **AI Ready** | 🛡️ **Secure** |
+| :---: | :---: | :---: |
+| **Static Sites** & **React** | **LLMs** & **GPU** | **HTTPS** & **Auth** |
+| **Docker** & **Node.js** | **Python** & **Jupyter** | **Postgres** & **Redis** |
+
+<br>
+
+[`🌐 Static Sites`](#static-sites) &nbsp;
+[`🔧 Full-Stack`](#full-stack) &nbsp;
+[`⚡ Serverless`](#serverless) &nbsp;
+[`🗄️ Databases`](#databases) &nbsp;
+[`🤖 AI & GPU`](#ai-gpu) &nbsp;
+[`☁️ VPS & Cloud`](#vps-cloud) &nbsp;
+[`🏠 Traditional`](#traditional)
+
+<br>
+<br>
+
+<div id="static-sites"></div>
 
 ## 🌐 Static Site Hosting
+*Ideal for: Portfolios, Documentation, React/Vue/Angular Apps, JAMstack.*
 
-Perfect for portfolios, documentation, and JAMstack sites.
+| Service | Free Tier Limits | Paid Starts | Best For | Deploy Method |
+|:---:|:---:|:---:|:---|:---|
+| **[Vercel](https://vercel.com/)** | ✅ **Unlimited Sites** | $20/mo | Next.js, React | Git Integration, CLI |
+| **[Netlify](https://www.netlify.com/)** | ✅ **100GB Bandwidth** | $19/mo | Front-end Apps | Drag & Drop, Git |
+| **[Cloudflare Pages](https://pages.cloudflare.com/)** | ✅ **Unlimited Req** | $20/mo | High Performance | Git, Direct Upload |
+| **[GitHub Pages](https://pages.github.com/)** | ✅ **Unlimited** | Free | Documentation | Push to `gh-pages` |
+| **[Surge](https://surge.sh/)** | ✅ **Unlimited** | $30/mo | Simple HTML | CLI Command |
+| **[Render](https://render.com/)** | ✅ **Unlimited** | $7/mo | Static Assets | Auto-deploy from Git |
 
-| Service | Free Tier | Paid Plans | Best For | Deploy Method | Special Features |
-|---------|-----------|------------|----------|---------------|------------------|
-| [Vercel](https://vercel.com/) | ✅ Unlimited sites | From $20/mo | Next.js, React | Git integration | Edge functions, Analytics |
-| [Netlify](https://www.netlify.com/) | ✅ 100GB bandwidth | From $19/mo | JAMstack | Git, CLI, API | Split testing, Forms |
-| [Cloudflare Pages](https://pages.cloudflare.com/) | ✅ Unlimited | From $20/mo | Any static site | Git integration | Global CDN, Workers |
-| [GitHub Pages](https://pages.github.com/) | ✅ Unlimited | N/A | Jekyll, Static | Git push | Custom domains, HTTPS |
-| [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) | ✅ Unlimited | N/A | Any static site | GitLab CI/CD | Built-in CI/CD |
-| [Surge](https://surge.sh/) | ✅ Unlimited sites | From $30/mo | Simple static | CLI | Custom domains, SSL |
-| [Render](https://render.com/) | ✅ Limited | From $7/mo | Static + backends | Git integration | Auto-deploy, CDN |
-| [Neocities](https://neocities.org/) | ✅ 1GB storage | From $5/mo | Personal sites | Web, WebDAV | Retro vibe, Community |
-| [Fleek](https://fleek.co/) | ✅ Unlimited | Custom | Web3, IPFS | Git integration | Decentralized hosting |
-| [Rollout](https://rollout.run/) | ✅ Available | TBA | Static sites | CLI | Cloudflare-backed |
+<br>
 
----
+<div id="full-stack"></div>
 
 ## 🔧 Full-Stack Platforms
+*Ideal for: Node.js, Python (Django/Flask), Go, Ruby, Docker Containers.*
 
-Deploy complete applications with databases, APIs, and frontends.
+| Service | Free Resources | Sleep Policy | Support | Key Feature |
+|:---:|:---:|:---:|:---:|:---|
+| **[Zeabur](https://zeabur.com/)** | ✅ **$5 Credit/mo** | No | Docker/Git | **Top Pick 2026** (No CC req) |
+| **[Railway](https://railway.app/)** | ✅ **$5 Credit** | No | Multi-lang | Zero-config, easiest DX |
+| **[Render](https://render.com/)** | ✅ **750 Hrs/mo** | Yes | Docker/Native | Managed Redis & Postgres included |
+| **[Northflank](https://northflank.com/)** | ✅ **2 Services** | No | Docker | Includes 1 Free Database |
+| **[Fly.io](https://fly.io/)** | ✅ **Allowance** | No | Docker | Deploy apps close to users (Edge) |
+| **[Koyeb](https://www.koyeb.com/)** | ✅ **$5.50 Credit** | No | Docker/Git | Global deployment, Microservices |
+| **[PythonAnywhere](https://www.pythonanywhere.com/)** | ✅ **Limited** | N/A | Python | Specialized for Django/Flask |
 
-| Service | Free Tier | Paid Plans | Supported Languages | Best For | Key Features |
-|---------|-----------|------------|---------------------|----------|--------------|
-| [Heroku](https://www.heroku.com/) | ✅ Limited dynos | From $7/mo | Multi-language | Rapid prototyping | Add-ons ecosystem |
-| [Railway](https://railway.app/) | ✅ $5 credit/mo | From $5/mo | Multi-language | Hobby projects | Instant deploys |
-| [Render](https://render.com/) | ✅ Limited | From $7/mo | Multi-language | Full-stack apps | Free PostgreSQL |
-| [Fly.io](https://fly.io/) | ✅ Generous | Pay-as-you-go | Multi-language | Global apps | Edge deployment |
-| [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform) | ✅ 3 static sites | From $5/mo | Multi-language | Scalable apps | Managed databases |
-| [Qoddi](https://qoddi.com/) | ✅ Available | From $0/mo | Multi-language | Heroku alternative | Developer-friendly |
-| [Sevalla](https://sevalla.com/) | ✅ $50 credit | Custom | Multi-language | Quick deploys | Fast setup |
-| [Hostman](https://hostman.com/) | ✅ 3 projects | From $4/mo | Multi-language | GitHub deploys | Auto-scaling |
+<br>
 
----
+<div id="serverless"></div>
 
-## ⚡ Serverless & Edge Computing
+## ⚡ Serverless & Edge
+*Ideal for: APIs, Background Jobs, Event-Driven Architecture, Microservices.*
 
-Modern architectures for scalable, event-driven applications.
+| Service | Requests / Month | Runtime Support | Unique Feature |
+|:---:|:---:|:---|:---|
+| **[Cloudflare Workers](https://workers.cloudflare.com/)** | ✅ **100k / day** | JS, Rust, Wasm | 0ms Cold Start, Global Network |
+| **[AWS Lambda](https://aws.amazon.com/lambda/)** | ✅ **1 Million** | Python, Node, Go | The industry standard |
+| **[Deno Deploy](https://deno.com/deploy)** | ✅ **100k / day** | TypeScript, JS | Native TypeScript, no config |
+| **[Vercel Functions](https://vercel.com/docs/functions)** | ✅ **100GB-Hrs** | Node, Go, Python | Integrated seamlessly with frontend |
 
-| Service | Free Tier | Paid Plans | Runtime Support | Best For | Unique Features |
-|---------|-----------|------------|-----------------|----------|-----------------|
-| [Cloudflare Workers](https://workers.cloudflare.com/) | ✅ 100k req/day | From $5/mo | JS, Wasm | Edge computing | KV storage, Durable Objects |
-| [AWS Lambda](https://aws.amazon.com/lambda/) | ✅ 1M req/mo | Pay-per-use | Multi-language | Serverless APIs | AWS ecosystem |
-| [Google Cloud Functions](https://cloud.google.com/functions) | ✅ 2M req/mo | Pay-per-use | Multi-language | Event-driven | GCP integration |
-| [Azure Functions](https://azure.microsoft.com/services/functions/) | ✅ 1M req/mo | Pay-per-use | Multi-language | Enterprise | Microsoft ecosystem |
-| [Vercel Functions](https://vercel.com/docs/functions) | ✅ 100GB-hours | From $20/mo | Node.js, Go, Python | API routes | Edge & Serverless |
-| [Netlify Functions](https://www.netlify.com/products/functions/) | ✅ 125k req/mo | From $19/mo | JS, Go | JAMstack APIs | Background functions |
-| [Deno Deploy](https://deno.com/deploy) | ✅ 100k req/day | From $10/mo | TypeScript, JS | Deno runtime | Edge deployment |
+<br>
 
----
+<div id="databases"></div>
 
-## 🏠 Traditional Web Hosting
+## 🗄️ Database & Backend
+*Ideal for: Persisting data (SQL, NoSQL) and Backend-as-a-Service.*
 
-Classic shared hosting with cPanel, FTP, and databases.
+| Service | Type | Free Storage | Special Feature |
+|:---:|:---:|:---:|:---|
+| **[Supabase](https://supabase.com/)** | **PostgreSQL** | 500 MB | Open-source Firebase alternative |
+| **[Back4App](https://www.back4app.com/)** | **BaaS** | 250 MB | Low-code Backend (Parse) |
+| **[MongoDB Atlas](https://www.mongodb.com/atlas)** | **NoSQL** | 512 MB | Automated backups, easy scaling |
+| **[PlanetScale](https://planetscale.com/)** | **MySQL** | 5 GB | Git-like branching for databases |
+| **[Neon](https://neon.tech/)** | **PostgreSQL** | 500 MB | Serverless, compute auto-scaling |
+| **[Turso](https://turso.tech/)** | **SQLite** | 9 GB | Edge-hosted, incredibly fast |
 
-| Service | Free Tier | Paid Plans | Storage | Bandwidth | Features |
-|---------|-----------|------------|---------|-----------|----------|
-| [InfinityFree](https://infinityfree.net/) | ✅ 5GB | N/A | 5GB | Unlimited | PHP, MySQL, FTP |
-| [serv00](https://www.serv00.com/) | ✅ 3GB | From €4/yr | 3GB | 100GB/mo | SSH, Cron, 20+ languages |
-| [ProFreeHost](https://profreehost.com/) | ✅ 5GB | From $3/mo | 5GB | Unlimited | cPanel, PHP, MySQL |
-| [Freehostia](https://www.freehostia.com/) | ✅ 250MB | From $4/mo | 250MB | 6GB/mo | 1-click apps, cPanel |
-| [AwardSpace](https://www.awardspace.com/) | ✅ 1GB | From $3/mo | 1GB | 5GB/mo | PHP, MySQL, Email |
-| [AlwaysData](https://www.alwaysdata.com/) | ✅ 100MB | From €8/mo | 100MB | Unlimited | Multi-language, SSH |
-| [FreeHostingNoAds](https://freehostingnoads.net/) | ✅ 1GB | N/A | 1GB | 10GB/mo | PHP, Perl, CGI, MySQL |
+<br>
 
----
+<div id="ai-gpu"></div>
 
-## 🎯 Specialized Hosting
+## 🤖 AI & GPU Hosting
+*Ideal for: Machine Learning, LLMs, Python Notebooks, Inference.*
 
-Purpose-built platforms for specific use cases.
+| Service | Free Hardware | Best Use Case |
+|:---:|:---:|:---|
+| **[Hugging Face Spaces](https://huggingface.co/spaces)** | ✅ **2 vCPU** | Hosting Gradio/Streamlit Demos |
+| **[Google Colab](https://colab.research.google.com/)** | ✅ **T4 GPU** | Training models, Jupyter Notebooks |
+| **[Kaggle Kernels](https://www.kaggle.com/code)** | ✅ **P100 GPU** | Data Science competitions & practice |
+| **[Lightning AI](https://lightning.ai/)** | ✅ **Free Credits** | PyTorch Lightning apps |
 
-| Service | Free Tier | Paid Plans | Specialized For | Key Features |
-|---------|-----------|------------|-----------------|--------------|
-| [Firebase Hosting](https://firebase.google.com/products/hosting) | ✅ 10GB storage | From $25/mo | Web & mobile apps | Real-time database, Auth |
-| [Read The Docs](https://readthedocs.org/) | ✅ Unlimited | N/A | Documentation | Versioning, PDF export |
-| [Pantheon](https://pantheon.io/) | ✅ Developer plan | From $50/mo | WordPress, Drupal | DevOps automation |
-| [FreeFlarum](https://freeflarum.com/) | ✅ 250 users | N/A | Forum communities | Flarum hosting |
-| [Bubble](https://bubble.io/) | ✅ Limited | From $29/mo | No-code apps | Visual programming |
-| [Tilda](https://tilda.cc/) | ✅ 1 site | From $10/mo | Landing pages | Visual builder |
-| [Versoly](https://versoly.com/) | ✅ Limited | From $42/mo | SaaS websites | Unlimited sites |
-| [StormKit](https://stormkit.io/) | ✅ Available | From $15/mo | Modern web apps | Self-hostable |
-| [LinkWave Connect](https://en.linkwaveconnect.com.br/open-source) | ✅ Yes | N/A | Open source projects | Static & dynamic |
+<br>
 
----
+<div id="vps-cloud"></div>
 
-## ☁️ Cloud Infrastructure
+## ☁️ Cloud Infrastructure (VPS)
+*Ideal for: Virtual Machines, Linux Servers, Enterprise Learning.*
 
-Enterprise-grade infrastructure with flexible compute, storage, and networking.
+| Provider | The "Always Free" Deal | Specs |
+|:---:|:---|:---|
+| **[Oracle Cloud](https://www.oracle.com/cloud/free/)** | 4x ARM Ampere Instances | **4 OCPU, 24 GB RAM** (Best Value) |
+| **[Google Cloud](https://cloud.google.com/free)** | e2-micro instance | 2 vCPU, 1 GB RAM (US Regions) |
+| **[AWS Free Tier](https://aws.amazon.com/free/)** | t2.micro / t3.micro | 12 Months Free Access |
+| **[Azure](https://azure.microsoft.com/free/)** | B1s Burstable VM | 12 Months Free Access |
 
-| Service | Free Tier | Entry Price | Best For | Key Services |
-|---------|-----------|-------------|----------|--------------|
-| [AWS](https://aws.amazon.com/free/) | ✅ 12 months | Pay-as-you-go | Enterprise | EC2, S3, Lambda, RDS |
-| [Google Cloud](https://cloud.google.com/free) | ✅ Always free | Pay-as-you-go | ML, Analytics | Compute Engine, Cloud Run |
-| [Microsoft Azure](https://azure.microsoft.com/free/) | ✅ 12 months | Pay-as-you-go | Enterprise | VMs, Functions, Storage |
-| [Oracle Cloud](https://www.oracle.com/cloud/free/) | ✅ Always free | Pay-as-you-go | Database, Compute | 4 ARM CPUs, 24GB RAM |
-| [DigitalOcean](https://www.digitalocean.com/pricing) | ✅ $200 credit | From $4/mo | Developers | Droplets, Kubernetes |
-| [Linode/Akamai](https://www.linode.com/) | ✅ $100 credit | From $5/mo | Performance | VPS, Kubernetes |
+<br>
 
----
+<div id="traditional"></div>
 
-## 🗄️ Database Hosting
+## 🏠 Traditional Hosting (PHP/cPanel)
+*Ideal for: WordPress, Legacy PHP scripts, FTP users.*
 
-Managed database services for your applications.
+| Service | Free Limits | Key Features | Type |
+|:---:|:---:|:---:|:---|
+| **[InfinityFree](https://infinityfree.net/)** | Unlimited Disk | 99.9% Uptime, No Front-end Ads | PHP / MySQL |
+| **[Serv00](https://www.serv00.com/)** | 3GB Storage | SSH Access, C++, Java, Rust | Shell / Hosting |
+| **[HelioHost](https://heliohost.org/)** | 1GB Storage | Community powered, Full cPanel | cPanel |
+| **[GoogieHost](https://googiehost.com/)** | 1GB SSD | Free SSL, Business Email | cPanel / CloudLinux |
 
-| Service | Free Tier | Paid Plans | Database Types | Best For |
-|---------|-----------|------------|----------------|----------|
-| [PlanetScale](https://planetscale.com/) | ✅ 1 database | From $29/mo | MySQL | Branching, Scaling |
-| [Supabase](https://supabase.com/) | ✅ 500MB | From $25/mo | PostgreSQL | Real-time, Auth |
-| [MongoDB Atlas](https://www.mongodb.com/atlas) | ✅ 512MB | From $9/mo | MongoDB | NoSQL, Clustering |
-| [Neon](https://neon.tech/) | ✅ 3 projects | From $19/mo | PostgreSQL | Serverless, Branching |
-| [CockroachDB](https://www.cockroachlabs.com/) | ✅ 5GB storage | From $295/mo | PostgreSQL-compatible | Distributed SQL |
+</div>
 
 ---
 
-## 🔄 CI/CD & DevOps
+<div align="center">
 
-Automation platforms for building, testing, and deploying code.
+## 🤝 Join the Community
+**Help us build the #1 Free Hosting Resource for Developers.** *Found a broken link? Know a hidden gem?*
 
-| Service | Free Tier | Paid Plans | Best For | Integration |
-|---------|-----------|------------|----------|-------------|
-| [GitHub Actions](https://github.com/features/actions) | ✅ 2000 min/mo | From $3.50 | GitHub projects | Native GitHub |
-| [GitLab CI/CD](https://about.gitlab.com/solutions/continuous-integration/) | ✅ 400 min/mo | From $29/mo | GitLab projects | Native GitLab |
-| [CircleCI](https://circleci.com/) | ✅ 6000 min/mo | From $15/mo | Any project | Multi-platform |
-| [Travis CI](https://travis-ci.com/) | ✅ Limited | From $69/mo | Open source | GitHub integration |
-| [Buddy](https://buddy.works/) | ✅ 5 projects | From $35/mo | Web developers | Visual pipelines |
+<a href="https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iSoumyaDey/Awesome-Web-Hosting-2026" alt="Contributors" />
+</a>
 
----
+<br><br>
 
-## 🎁 Additional Resources
+[![Submit PR](https://img.shields.io/badge/Submit_Service-Make_a_PR-blue?style=for-the-badge&logo=github)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/pulls)
+[![Report Issue](https://img.shields.io/badge/Report_Link-Open_Issue-red?style=for-the-badge&logo=github)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/issues)
 
-### Quick Deploy Tools
-- [Fenix Web Server](https://preview.fenixwebserver.com/) - Desktop app for local hosting
-- [Drive to Web](https://drv.tw/) - Host from Google Drive/OneDrive
-- [Txti](https://txti.es/) - Instant markdown sites
+<br>
 
-### Open Source Platforms
-- [SourceForge](https://sourceforge.net/) - Open source project hosting
-- Self-hosted options available for many platforms
+## 📈 Repository Stats
+*Real-time metrics for open-source transparency.*
 
----
+<a href="https://star-history.com/#iSoumyaDey/Awesome-Web-Hosting-2026&Date">
+ <picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date&theme=light" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date" />
+ </picture>
+</a>
 
-## 🤝 Contributing
+<br>
 
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting.
+![Profile Views](https://komarev.com/ghpvc/?username=iSoumyaDey-Awesome-Hosting&color=blueviolet&style=flat-square&label=REPO+VIEWS)
 
-### How to Contribute:
-1. Fork this repository
-2. Add your hosting service with complete information
-3. Ensure all links work and information is accurate
-4. Submit a pull request
-
-### Contribution Criteria:
-- Service must be actively maintained (2024-2025)
-- Clear pricing information required
-- Must have reasonable free tier or trial
-- No affiliate links without disclosure
+</div>
 
 ---
 
-## 📊 Comparison Guide
-
-### For Beginners
-**Start with:** Vercel, Netlify, or GitHub Pages for static sites
-
-### For Full-Stack Apps
-**Consider:** Railway, Render, or Fly.io
-
-### For Scalability
-**Choose:** AWS, Google Cloud, or Cloudflare
-
-### For Budget Projects
-**Try:** InfinityFree, serv00, or free tiers of major platforms
-
----
-
-## ⚠️ Important Notes
-
-- **Free tiers have limitations** - Check each service's terms
-- **Pricing subject to change** - Verify on official websites
-- **Geographic restrictions** may apply
-- **Support levels vary** between free and paid tiers
-
----
-
-## 📱 Stay Updated
-
-This list is actively maintained. Star ⭐ this repo to get updates!
-
-**Last Updated:** December 2025
-
----
-
-## 📧 Contact & Promotion
-
-Have a hosting service to promote? Want to suggest additions?
-
-**Please Raise A PR 🫱🏼‍🫲🏼❤️**
-
----
-
-## 📜 License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This list is released under CC0 (Public Domain). Use it freely!
-
----
-
-**Made with ❤️ for the developer community**
-
-*Supporting developers worldwide with the best hosting resources*
+<div align="center">
+  <p>
+    Created with ❤️ by <a href="https://github.com/iSoumyaDey"><b>@iSoumyaDey</b></a><br>
+    <i>Connecting developers with the best free tools since 2025.</i>
+  </p>
+</div>
