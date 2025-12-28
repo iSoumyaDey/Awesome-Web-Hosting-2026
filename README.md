@@ -185,7 +185,7 @@
 
 <div align="center">
 
-<a href="https://star-history.com/#iSoumyaDey/Awesome-Web-Hosting-2026&Date"><picture><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date&theme=light" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date" /><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date" /></picture></a>
+<a href="https://star-history.com/#iSoumyaDey/Awesome-Web-Hosting-2026&Date"><picture><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date&theme=light" /><source media="(prefers-color-scheme: light)" srcset="https://www.star-history.com/embed?secret=#iSoumyaDey/Awesome-Web-Hosting-2026&type=date&legend=top-left" /><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=iSoumyaDey/Awesome-Web-Hosting-2026&type=Date" /></picture></a>
 
 <br>
 </div>
