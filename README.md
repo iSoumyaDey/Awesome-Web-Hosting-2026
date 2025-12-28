@@ -45,15 +45,14 @@
 
 <div align="center">
 
-| Service | Free Tier Limits | Paid Starts | Best For | Deploy Method |
-|:---:|:---:|:---:|:---|:---|
-| **[Vercel](https://vercel.com/)** | ✅ **Unlimited Sites** | $20/mo | Next.js, React | Git Integration, CLI |
-| **[Netlify](https://www.netlify.com/)** | ✅ **100GB Bandwidth** | $19/mo | Front-end Apps | Drag & Drop, Git |
-| **[Cloudflare Pages](https://pages.cloudflare.com/)** | ✅ **Unlimited Req** | $20/mo | High Performance | Git, Direct Upload |
-| **[GitHub Pages](https://pages.github.com/)** | ✅ **Unlimited** | Free | Documentation | Push to `gh-pages` |
-| **[Surge](https://surge.sh/)** | ✅ **Unlimited** | $30/mo | Simple HTML | CLI Command |
-| **[Render](https://render.com/)** | ✅ **Unlimited** | $7/mo | Static Assets | Auto-deploy from Git |
-| **[AWS Amplify](https://aws.amazon.com/amplify/pricing/)** | ✅ **1000 Build Mins** | Pay-as-you-go | Full-stack AWS | Git & Pull Requests |
+| Service | Free Limits | Paid Starts | Best For |
+|:---:|:---:|:---:|:---|
+| **[Vercel](https://vercel.com/)** | ✅ **Unlimited** | $20/mo | Next.js, React |
+| **[Netlify](https://www.netlify.com/)** | ✅ **100GB Bandwidth** | $19/mo | General Frontend |
+| **[Cloudflare Pages](https://pages.cloudflare.com/)** | ✅ **Unlimited** | $20/mo | Performance (Edge) |
+| **[Deno Deploy](https://deno.com/deploy)** | ✅ **1M Req/mo** | $10/mo | JS/TS edge functions |
+| **[GitHub Pages](https://pages.github.com/)** | ✅ **Unlimited** | Free | Documentation / Simple Sites |
+| **[AWS Amplify](https://aws.amazon.com/amplify/)** | ✅ **1000 Build Mins** | Pay-Go | AWS Ecosystem apps |
 
 </div>
 <br>
@@ -65,17 +64,18 @@
 
 <div align="center">
 
-| Service | Free Resources | Sleep Policy | Support | Key Feature |
-|:---:|:---:|:---:|:---:|:---|
-| **[Zeabur](https://zeabur.com/)** | ✅ **$5 Credit/mo** | No | Docker/Git | **Top Pick 2026** (No CC req) |
-| **[Railway](https://railway.app/)** | ✅ **$5 Credit** | No | Multi-lang | Zero-config, easiest DX |
-| **[Render](https://render.com/)** | ✅ **750 Hrs/mo** | Yes | Docker/Native | Managed Redis & Postgres included |
-| **[Northflank](https://northflank.com/)** | ✅ **2 Services** | No | Docker | Includes 1 Free Database |
-| **[Fly.io](https://fly.io/)** | ✅ **Allowance** | No | Docker | Deploy apps close to users (Edge) |
-| **[Koyeb](https://www.koyeb.com/)** | ✅ **$5.50 Credit** | No | Docker/Git | Global deployment, Microservices |
-| **[PythonAnywhere](https://www.pythonanywhere.com/)** | ✅ **Limited** | N/A | Python | Specialized for Django/Flask |
+| Service | Free Tier | Sleep Policy | Key Feature |
+|:---:|:---:|:---:|:---|
+| **[Zeabur](https://zeabur.com/)** | ✅ **$5 Credit/mo** | No | **Top Pick 2026** (No CC req) |
+| **[Render](https://render.com/)** | ✅ **750 Hrs/mo** | Yes (15m) | Easy deploy, huge limits |
+| **[Koyeb](https://www.koyeb.com/)** | ✅ **Free Nano Instance** | No | Global Edge deployment |
+| **[Northflank](https://northflank.com/)** | ✅ **CC Required** | No | 1 Service + 1 Database Free |
+| **[Glitch](https://glitch.com/)** | ✅ **1000 Hrs/mo** | Yes (5m) | Best for fun/quick prototypes |
+| **[PythonAnywhere](https://www.pythonanywhere.com/)** | ✅ **1 Web App** | N/A | Best for beginner Django/Flask |
+| **[IBM Cloud](https://cloud.ibm.com/)** | ✅ **Lite Plan** | No | 256MB Cloud Foundry App (No expire) |
 
 </div>
+⚠️ <b>Note:</b> Railway & Fly.io have moved to "Trial Only" or "Pay-as-you-go" models in 2026.*
 <br>
 
 <div id="serverless"></div>
@@ -104,13 +104,13 @@
 
 | Service | Type | Free Storage | Special Feature |
 |:---:|:---:|:---:|:---|
-| **[Supabase](https://supabase.com/)** | **PostgreSQL** | 500 MB | Open-source Firebase alternative |
-| **[Back4App](https://www.back4app.com/)** | **BaaS** | 250 MB | Low-code Backend (Parse) |
-| **[MongoDB Atlas](https://www.mongodb.com/atlas)** | **NoSQL** | 512 MB | Automated backups, easy scaling |
-| **[AWS DynamoDB](https://aws.amazon.com/dynamodb/pricing/)** | **NoSQL** | 25 GB | Always Free, Single-digit millisecond latency |
-| **[PlanetScale](https://planetscale.com/)** | **MySQL** | 5 GB | Git-like branching for databases |
-| **[Neon](https://neon.tech/)** | **PostgreSQL** | 500 MB | Serverless, compute auto-scaling |
-| **[Turso](https://turso.tech/)** | **SQLite** | 9 GB | Edge-hosted, incredibly fast |
+| **[Supabase](https://supabase.com/)** | **PostgreSQL** | 500 MB | Realtime, Auth, Storage included |
+| **[Neon](https://neon.tech/)** | **PostgreSQL** | 500 MB | Serverless (Scales to 0), Branching |
+| **[MongoDB Atlas](https://www.mongodb.com/atlas)** | **NoSQL** | 512 MB | The industry standard for Mongo |
+| **[Turso](https://turso.tech/)** | **SQLite** | 9 GB | 1 Billion reads/mo (Edge hosted) |
+| **[Convex](https://www.convex.dev/)** | **BaaS** | 1 Million Files | Realtime backend replacement |
+| **[Appwrite](https://appwrite.io/)** | **BaaS** | 2 GB | Open-source Firebase alternative |
+| **[DynamoDB](https://aws.amazon.com/dynamodb/)** | **NoSQL** | 25 GB | AWS "Always Free" Tier |
 
 </div>
 <br>
@@ -124,11 +124,11 @@
 
 | Service | Free Hardware | Best Use Case |
 |:---:|:---:|:---|
-| **[Streamlit Cloud](https://streamlit.io/)** | ✅ **Unlimited Apps** | Data Science Dashboards |
-| **[Hugging Face Spaces](https://huggingface.co/spaces)** | ✅ **2 vCPU** | Hosting Gradio/Streamlit Demos |
-| **[Google Colab](https://colab.research.google.com/)** | ✅ **T4 GPU** | Training models, Jupyter Notebooks |
-| **[Kaggle Kernels](https://www.kaggle.com/code)** | ✅ **P100 GPU** | Data Science competitions & practice |
-| **[Lightning AI](https://lightning.ai/)** | ✅ **Free Credits** | PyTorch Lightning apps |
+| **[Streamlit Cloud](https://streamlit.io/)** | ✅ **Unlimited Apps** | Data Science Dashboards (Python) |
+| **[Hugging Face](https://huggingface.co/spaces)** | ✅ **2 vCPU** | Hosting Gradio apps & Models |
+| **[Google Colab](https://colab.research.google.com/)** | ✅ **T4 GPU** | Jupyter Notebooks, Training |
+| **[Kaggle](https://www.kaggle.com/code)** | ✅ **P100 GPU** | 30hrs/week of high-end GPU |
+| **[Lightning AI](https://lightning.ai/)** | ✅ **Free Credits** | PyTorch development environment |
 
 </div>
 <br>
