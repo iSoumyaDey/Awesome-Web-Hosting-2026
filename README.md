@@ -2,9 +2,9 @@
 
 # 🚀 Awesome Free Web Hosting 2026
 
+![Socialify Image](https://socialify.git.ci/iSoumyaDey/Awesome-Web-Hosting-2026/image?font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating+Cogs&pulls=1&stargazers=1&theme=Dark)
+
 [![Awesome](https://img.shields.io/badge/Awesome-List-fc60a8?style=for-the-badge&logo=awesome&logoColor=white)](https://github.com/awesome-lists)
-[![Stars](https://img.shields.io/github/stars/iSoumyaDey/Awesome-Web-Hosting-2026?style=for-the-badge&logo=github&color=yellow)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/stargazers)
-[![Forks](https://img.shields.io/github/forks/iSoumyaDey/Awesome-Web-Hosting-2026?style=for-the-badge&logo=github&color=orange)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026/network/members)
 [![License](https://img.shields.io/badge/License-CC0_1.0-blue?style=for-the-badge&logo=creative-commons&logoColor=white)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Updated](https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge&logo=cachet&logoColor=white)](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026)
 
