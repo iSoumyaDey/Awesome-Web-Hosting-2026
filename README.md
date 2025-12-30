@@ -81,6 +81,7 @@
 | **[PythonAnywhere](https://www.pythonanywhere.com/)** | ✅ **1 Web App** | N/A (limited access) | Beginner Django/Flask hosting | ✅ No |
 | **[IBM Cloud](https://cloud.ibm.com/)** | ✅ **Lite Plan** | No expiry | 256MB Cloud Foundry App | ✅ No |
 | **[Railway](https://railway.app/)** | ✅ **$5 Credit (Trial)** | Usage-based | Simple UX, good for testing | ✅ No |
+| **[Hostim.dev](https://hostim.dev/)** | ⏱️ **5-day App Trial** | No sleep | Docker apps + always-free managed DBs | ✅ Yes |
 
 </div>
 
@@ -124,6 +125,7 @@
 | **[Firebase Realtime DB](https://firebase.google.com/products/database)** | NoSQL | 1 GB | Real-time sync, 100 connections | Never |
 | **[DynamoDB](https://aws.amazon.com/dynamodb/)** | NoSQL | 25 GB | AWS “Always Free” tier | Never |
 | **[Planetscale](https://planetscale.com/)** | MySQL | 5 GB | Serverless MySQL with branching | Never |
+| **[Hostim.dev](https://hostim.dev/)** | PostgreSQL / MySQL / Redis | 256 MB (DB), 128 MB (Redis) | Always-free managed databases | Never |
 
 </div>
 <br>
