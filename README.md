@@ -161,6 +161,7 @@
 | **[Lightning AI](https://lightning.ai/)** | ✅ **Free Credits** | PyTorch, Jupyter | ML app development |
 | **[Paperspace Gradient](https://www.paperspace.com/gradient)** | ✅ **Free tier credits** | Jupyter, Python | GPU notebooks & ML |
 | **[Replicate](https://replicate.com/)** | ✅ **Trial Credits** | Python, HTTP API | Deploy models as APIs |
+| **[MyVibe](https://myvibe.so/)** | ✅ **Free publishing** | Static/Vite/Next.js | AI-generated web apps |
 
 </div>
 <br>
