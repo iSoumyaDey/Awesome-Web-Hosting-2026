@@ -82,6 +82,7 @@
 | **[IBM Cloud](https://cloud.ibm.com/)** | ✅ **Lite Plan** | No expiry | 256MB Cloud Foundry App | ✅ No |
 | **[Railway](https://railway.app/)** | ✅ **$5 Credit (Trial)** | Usage-based | Simple UX, good for testing | ✅ No |
 | **[Hostim.dev](https://hostim.dev/)** | ⏱️ **5-day App Trial** | No sleep | Docker apps + always-free managed DBs | ✅ Yes |
+| **[SnapDeploy](https://snapdeploy.dev/)** | ✅ **4 Containers, 512 MB** | Sleeps after 15m idle | Auto-detect & deploy any Dockerfile/framework | ✅ Yes |
 
 </div>
 
