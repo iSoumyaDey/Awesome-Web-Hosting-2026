@@ -82,6 +82,7 @@
 | **[IBM Cloud](https://cloud.ibm.com/)** | ✅ **Lite Plan** | No expiry | 256MB Cloud Foundry App | ✅ No |
 | **[Railway](https://railway.app/)** | ✅ **$5 Credit (Trial)** | Usage-based | Simple UX, good for testing | ✅ No |
 | **[Hostim.dev](https://hostim.dev/)** | ⏱️ **5-day App Trial** | No sleep | Docker apps + always-free managed DBs | ✅ Yes |
+| **[Dada Cloud](https://cloud.dada-tuda.ru/?utm_source=awesome_webhosting2026)** | ✅ **1 App + 1 DB free** | — | Ruble-native billing (works without a foreign card), git deploy for Next.js/FastAPI/static/Docker | ✅ Yes |
 
 </div>
 
