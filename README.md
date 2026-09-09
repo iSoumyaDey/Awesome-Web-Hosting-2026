@@ -82,6 +82,7 @@
 | **[IBM Cloud](https://cloud.ibm.com/)** | ✅ **Lite Plan** | No expiry | 256MB Cloud Foundry App | ✅ No |
 | **[Railway](https://railway.app/)** | ✅ **$5 Credit (Trial)** | Usage-based | Simple UX, good for testing | ✅ No |
 | **[Hostim.dev](https://hostim.dev/)** | ⏱️ **5-day App Trial** | No sleep | Docker apps + always-free managed DBs | ✅ Yes |
+| **[OneBit Deploy](https://deploy.onebit.ng)** | ✅ **5 Apps, 1 GB RAM** | Scales to 0 when idle | Node.js/Next.js & static sites, billed in naira | ✅ No |
 
 </div>
 
