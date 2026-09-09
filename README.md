@@ -126,6 +126,7 @@
 | **[DynamoDB](https://aws.amazon.com/dynamodb/)** | NoSQL | 25 GB | AWS “Always Free” tier | Never |
 | **[Planetscale](https://planetscale.com/)** | MySQL | 5 GB | Serverless MySQL with branching | Never |
 | **[Hostim.dev](https://hostim.dev/)** | PostgreSQL / MySQL / Redis | 256 MB (DB), 128 MB (Redis) | Always-free managed databases | Never |
+| **[Layerbase](https://layerbase.com/)** | PostgreSQL / MariaDB / Redis / more | 5 GB | Flat fee, branching, wakes on connect | Archives after 14d idle |
 
 </div>
 <br>
