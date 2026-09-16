@@ -199,6 +199,7 @@
 | **[CapRover](https://caprover.com/)** | Simple one-click apps | Medium | ✅ | ✅ One-click DBs & apps |
 | **[Dokku](https://dokku.com/)** | Heroku-like Git deploy | Hard (CLI) | ✅ | ✅ via plugins |
 | **[Dokploy](https://dokploy.io/)** | New, modern panel | Easy | ✅ | ✅ built-in |
+| **[Peon](https://peon.sh/)** | Open source Docker PaaS on your VPS | Medium | ✅ | ✅ PostgreSQL and more |
 | **[Qovery](https://www.qovery.com/)** | DevOps & Kubernetes users | Hard | ✅ | ✅ all major DBs |
 
 </div>
