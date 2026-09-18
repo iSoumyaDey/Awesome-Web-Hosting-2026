@@ -81,7 +81,8 @@
 | **[PythonAnywhere](https://www.pythonanywhere.com/)** | ✅ **1 Web App** | N/A (limited access) | Beginner Django/Flask hosting | ✅ No |
 | **[IBM Cloud](https://cloud.ibm.com/)** | ✅ **Lite Plan** | No expiry | 256MB Cloud Foundry App | ✅ No |
 | **[Railway](https://railway.app/)** | ✅ **$5 Credit (Trial)** | Usage-based | Simple UX, good for testing | ✅ No |
-| **[Hostim.dev](https://hostim.dev/)** | ⏱️ **5-day App Trial** | No sleep | Docker apps + always-free managed DBs | ✅ Yes |
+| **[Hostim.dev](https://hostim.dev/)** || **[Raven Host](https://ravenhost.space/)** | ✅ **24/7 Free** | No sleep | Discord bots & apps, free forever, own subdomain | ✅ Yes |
+ ⏱️ **5-day App Trial** | No sleep | Docker apps + always-free managed DBs | ✅ Yes |
 
 </div>
 
