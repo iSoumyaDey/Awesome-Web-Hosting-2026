@@ -184,6 +184,8 @@
 </div>
 <br>
 
+> 💰 **Past the free tier?** [VPS Price Index](https://p32929.github.io/vps-price-index/) compares 120 paid VPS plans from Vultr, Linode, Scaleway and AWS Lightsail — every price pulled live from the provider's own public API and rebuilt daily, never hand-typed.
+
 <div id="self-hosted-paas"></div>
 
 ## 🏠 Self-Hosted PaaS (Heroku-Style)
