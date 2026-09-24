@@ -122,6 +122,7 @@
 | **[Turso](https://turso.tech/)** | SQLite | 9 GB ⭐ | Edge-hosted, 1B reads/mo | Never |
 | **[Convex](https://www.convex.dev/)** | BaaS | 1M operations/files | Realtime backend replacement | Never |
 | **[Appwrite](https://appwrite.io/)** | BaaS | 2 GB | Open-source Firebase alternative | Self-host/managed |
+| **[Nhost](https://nhost.io)** | PostgreSQL | 1 GB | GraphQL API, Auth, Storage, Functions | ~1 week inactivity |
 | **[Firebase Realtime DB](https://firebase.google.com/products/database)** | NoSQL | 1 GB | Real-time sync, 100 connections | Never |
 | **[DynamoDB](https://aws.amazon.com/dynamodb/)** | NoSQL | 25 GB | AWS “Always Free” tier | Never |
 | **[Planetscale](https://planetscale.com/)** | MySQL | 5 GB | Serverless MySQL with branching | Never |
