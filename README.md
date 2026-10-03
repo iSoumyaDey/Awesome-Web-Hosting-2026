@@ -58,6 +58,7 @@
 | **[AWS Amplify](https://aws.amazon.com/amplify/)** | ✅ **1000 Build Mins** | Free tier, then usage | Pay-as-you-go | AWS ecosystem apps |
 | **[DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform)** | ✅ **3 Static Sites** | 1 GB/mo transfer | $5+/mo | Simple, reliable, scalable |
 | **[Tiiny.host](https://tiiny.host)** | ✅ **Unlimited** | Zip upload, instant deploy | Free | Quick static deployments |
+| **[Shipvela](https://shipvela.com/)** | ✅ **3 projects** | 20 publishes/mo; prebuilt uploads up to 50 MB and 5,000 files | $29/mo | React/Vite and static websites from GitHub or the CLI; custom domains and HTTPS |
 
 </div>
 <br>
