@@ -82,6 +82,7 @@
 | **[IBM Cloud](https://cloud.ibm.com/)** | ✅ **Lite Plan** | No expiry | 256MB Cloud Foundry App | ✅ No |
 | **[Railway](https://railway.app/)** | ✅ **$5 Credit (Trial)** | Usage-based | Simple UX, good for testing | ✅ No |
 | **[Hostim.dev](https://hostim.dev/)** | ⏱️ **5-day App Trial** | No sleep | Docker apps + always-free managed DBs | ✅ Yes |
+| **[podway](https://podway.io/)** | ✅ **First app free (early access)** | No sleep | Open-source apps (n8n, Uptime Kuma, Vaultwarden…) each in its own pod; auto-rollback if an upgrade fails its health check | ✅ Yes |
 
 </div>
 
