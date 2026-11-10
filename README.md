@@ -123,6 +123,7 @@
 | **[Convex](https://www.convex.dev/)** | BaaS | 1M operations/files | Realtime backend replacement | Never |
 | **[Appwrite](https://appwrite.io/)** | BaaS | 2 GB | Open-source Firebase alternative | Self-host/managed |
 | **[Firebase Realtime DB](https://firebase.google.com/products/database)** | NoSQL | 1 GB | Real-time sync, 100 connections | Never |
+| **[Bot-Hosting.net](https://bot-hosting.net/database-hosting)** | PostgreSQL / MySQL / MongoDB / Redis | 512 MB | Runs next to bots, apps and sites on one account, EU servers | 4-day manual renewal, 30-day backup |
 | **[DynamoDB](https://aws.amazon.com/dynamodb/)** | NoSQL | 25 GB | AWS “Always Free” tier | Never |
 | **[Planetscale](https://planetscale.com/)** | MySQL | 5 GB | Serverless MySQL with branching | Never |
 | **[Hostim.dev](https://hostim.dev/)** | PostgreSQL / MySQL / Redis | 256 MB (DB), 128 MB (Redis) | Always-free managed databases | Never |
