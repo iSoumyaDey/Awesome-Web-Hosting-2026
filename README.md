@@ -58,6 +58,7 @@
 | **[AWS Amplify](https://aws.amazon.com/amplify/)** | ✅ **1000 Build Mins** | Free tier, then usage | Pay-as-you-go | AWS ecosystem apps |
 | **[DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform)** | ✅ **3 Static Sites** | 1 GB/mo transfer | $5+/mo | Simple, reliable, scalable |
 | **[Tiiny.host](https://tiiny.host)** | ✅ **Unlimited** | Zip upload, instant deploy | Free | Quick static deployments |
+| **[OxyPages](https://oxypages.com/)** | ✅ **1 Site** | 25 MB, 5,000 views/mo, personal use | $5/mo | Drop HTML, a ZIP or a built app, HTTPS link in seconds, no account to try |
 
 </div>
 <br>
