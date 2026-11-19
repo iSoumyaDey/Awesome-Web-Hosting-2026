@@ -58,6 +58,7 @@
 | **[AWS Amplify](https://aws.amazon.com/amplify/)** | ✅ **1000 Build Mins** | Free tier, then usage | Pay-as-you-go | AWS ecosystem apps |
 | **[DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform)** | ✅ **3 Static Sites** | 1 GB/mo transfer | $5+/mo | Simple, reliable, scalable |
 | **[Tiiny.host](https://tiiny.host)** | ✅ **Unlimited** | Zip upload, instant deploy | Free | Quick static deployments |
+| **[droply](https://droply.so/)** | ✅ **1 project** | 10 MB, 5,000 visits/mo, small badge | $5/mo | Sharing one HTML page, PDF or AI-made site as a link |
 
 </div>
 <br>
